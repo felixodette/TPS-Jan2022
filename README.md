@@ -1,0 +1,1 @@
+In TPS Jan 2022, the aim of this competition is to predict the number of items sold by two different companies. The features that are available to us are date, country, store and product. My initialy impression is that this is a very small dataset (features and samples) and so a gradient boosted model like XGBoost could do well here.
